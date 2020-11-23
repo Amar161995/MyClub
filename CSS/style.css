@@ -1,5 +1,24 @@
+
+
+body{
+    background-color: hotpink;
+    float:70%;
+}
+
 h1{
     display: block;
     color: red;
+    text-align: center;
+    background-color: chartreuse;
+    margin: 0px;
+}
+
+li{
+    display: inline;
+    text-align: center;
+    color:green;
+    margin-right: 10px;
+}
+ul{
     text-align: center;
 }
