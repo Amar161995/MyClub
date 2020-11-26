@@ -25,6 +25,7 @@ h1{
     background-color: rgb(162, 0, 255);
     margin: 0px;
     border-radius: 20px;
+    padding: 20px;
 }
 .clearfix{
     clear: both;
